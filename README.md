@@ -16,12 +16,12 @@ This script allows you to download audio from YouTube videos in your preferred f
 |--------------------------------------------|-------------|
 | `-h`, `--help`                             | Show this help message and exit. |
 | `video_url`                                  | URL of the YouTube video. |
-| `save_folder`                                 | Folder path to save the downloaded audio. |
+| `save_folder`                             | Folder path to save the downloaded audio. |
 | `audio_format`             
-  | Preferred audio format (e.g., mp3, m4a).|
+| Preferred audio format (e.g., mp3, m4a).|
 | `--audio_name`
-| Name for the downloaded audio file.
-|
+| Name for the downloaded audio file. |
+
 ``
     
 
