@@ -17,10 +17,10 @@ def downloader(url, save_path, audio_format, audio_name):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="YouTube Audio Downloader")
-    parser.add_argument("url", "video_url", help="URL of the YouTube video")
-    parser.add_argument("sv_fl", "save_folder", help="Folder path to save the downloaded audio")
-    parser.add_argument("ad_fr", "audio_format", help="Preferred audio format (e.g., mp3, m4a)")
-    parser.add_argument("name_ad", "audio_name", help="Name for the downloaded audio file")
+    parser.add_argument("-url", "--video_url", help="URL of the YouTube video")
+    parser.add_argument("-sv_fl", "--save_folder", help="Folder path to save the downloaded audio")
+    parser.add_argument("-ad_fr", "--audio_format", help="Preferred audio format (e.g., mp3, m4a)")
+    parser.add_argument("-name_ad", "--audio_name", help="Name for the downloaded audio file")
 
     args = parser.parse_args()
 
