@@ -1,4 +1,4 @@
-# <br><h1 align="center"><b> 🎵 YT-DLP CLI 🎵 <b></h1><br>
+# <br><h1 align="center"><b> YT-DLP CLI 🌐 <b></h1><br>
 
 
 This script allows you to download audio from YouTube videos in your preferred format.
@@ -37,3 +37,12 @@ This will download the audio from the YouTube video with the specified ID (`vide
 
 --- 
 
+
+# Colab
+
+*this script is available for google colab 🗣️*
+
+
+<div style="text-align: center;">
+  [![Open In Colab](https://img.shields.io/badge/google_colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/Blane187/yt_dlp-cli/blob/main/yt_dlp.ipynb)
+</div>
