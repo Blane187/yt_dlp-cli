@@ -1,4 +1,4 @@
-# <br><h1 align="center"><b> YT-DLP CLI 🌐 <b></h1><br>
+# <br><h1 align="center"><b> YT-DLP CLI 🌐 <b></h1>
 
 
 This script allows you to download audio from YouTube videos in your preferred format.
